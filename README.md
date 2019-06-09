@@ -1,5 +1,12 @@
 # C/C++ Advanced Lint for VS Code
 
+## WORK TO DO (fix that issue)
+https://github.com/jbenden/vscode-c-cpp-flylint/issues/47#issuecomment-460720853
+if the path end with doule stars
+recursively search for all folders and use them instead !!!! very handy
+
+
+
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/jbenden.c-cpp-flylint.svg)](https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/jbenden.c-cpp-flylint.svg)](https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/jbenden.c-cpp-flylint.svg)](https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint)
